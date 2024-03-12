@@ -100,7 +100,7 @@ dependencies {
     compile group: 'org.jetbrains.kotlin', name: 'kotlin-stdlib', version: kotlin_version
 
     implementation group: 'org.yaml', name: 'snakeyaml', version: '2.2'
-    compile 'org.bytedeco:javacv:1.4.3'
+    compile 'org.bytedeco:javacv:1.5.10'
     compile 'org.bytedeco.javacpp-presets:ffmpeg-platform:4.0.2-1.4.3'
 
     implementation('commons-io:commons-io') {
