@@ -101,7 +101,7 @@ dependencies {
 
     implementation group: 'org.yaml', name: 'snakeyaml', version: '2.2'
     compile 'org.bytedeco:javacv:1.4.3'
-    compile 'org.bytedeco.javacpp-presets:ffmpeg-platform:4.0.2-1.4.3'
+    compile 'org.bytedeco.javacpp-presets:ffmpeg-platform:4.1-1.4.4'
 
     implementation('commons-io:commons-io') {
         version {build
