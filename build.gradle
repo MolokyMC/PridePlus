@@ -92,7 +92,7 @@ repositories {
 }
 
 dependencies {
-    compile("org.spongepowered:mixin:0.8") {
+    compile("org.spongepowered:mixin:0.8.5") {
         exclude module: "launchwrapper"
     }
 
